@@ -1,0 +1,5 @@
+// Expression with or operator
+function test2 returns boolean;
+begin
+    23 > 5 or 1 + 8;    
+end;

@@ -1,0 +1,7 @@
+// testing exponent operator
+
+function test4 returns real;
+	a: real is 4.2;
+begin
+	(1 < 0) ** a;
+end;

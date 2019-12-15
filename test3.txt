@@ -1,0 +1,6 @@
+-- testing boolean with arithmetic operator
+
+function test3 returns integer;
+begin 
+	4 + 1;
+end;

@@ -1,0 +1,5 @@
+// Expression with remainder operation
+function test2 returns integer;
+begin
+     8.5 rem 1;    
+end;

@@ -1,0 +1,11 @@
+-- Testing project 4 if statement
+
+function test8 returns boolean;
+begin
+    if 2 > 3 
+	then 
+		4;
+	else
+		3;
+    endif;    
+end;

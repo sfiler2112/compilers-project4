@@ -1,0 +1,7 @@
+// testing real type variable
+
+function test4 returns real;
+	a: real is 4.2;
+begin
+	a + 1;
+end;
